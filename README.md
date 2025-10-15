@@ -1,5 +1,7 @@
 # EVALAI - AI-Powered Evaluation Platform
 
+> Live demo: https://ar210505.github.io/rubric-coder-intel/
+
 <div align="center">
   <img src="public/favicon.jpg" alt="EVALAI Logo" width="150" />
   
