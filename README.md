@@ -2,6 +2,8 @@
 
 > Live demo: https://ar210505.github.io/rubric-coder-intel/
 
+[![Deploy to GitHub Pages](https://github.com/ar210505/rubric-coder-intel/actions/workflows/deploy.yml/badge.svg)](https://github.com/ar210505/rubric-coder-intel/actions/workflows/deploy.yml)
+
 <div align="center">
   <img src="public/favicon.jpg" alt="EVALAI Logo" width="150" />
   
