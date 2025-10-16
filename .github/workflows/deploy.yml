@@ -25,6 +25,9 @@ jobs:
         run: npm ci
 
       - name: Build
+        env:
+          VITE_SUPABASE_URL: "https://ctevefzqqrytbptoovmw.supabase.co"
+          VITE_SUPABASE_PUBLISHABLE_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImN0ZXZlZnpxcXJ5dGJwdG9vdm13Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjAzNDk4MzcsImV4cCI6MjA3NTkyNTgzN30.u2OM_QynZK7aOrF5MKHO7DW9_8wbpVPGddF7YWeRESc"
         run: npm run build
 
       - name: Add .nojekyll
